@@ -10,7 +10,8 @@
 
 | 文档 | 说明 |
 |---|---|
-| **[技术报告_VLA后训练_PLD与RECAP机制解读.md](./技术报告_VLA后训练_PLD与RECAP机制解读.md)** | **主报告**（7 章：问题设定 → 支撑机制 → PLD → RECAP → 机制对比 → HEARS 方向 → 训练动力学）+ PDF |
+| **[VLA后训练_四篇代表文章解读.md](./VLA后训练_四篇代表文章解读.md)** ⭐ | **精简版（4 页）**：四篇代表文章各自独立解读 —— PLD / RECAP / VLA-OPD / RL-for-VLA-Generalization |
+| [技术报告_VLA后训练_PLD与RECAP机制解读.md](./技术报告_VLA后训练_PLD与RECAP机制解读.md) | **深度版**（13 页，7 章：问题设定 → 支撑机制 → PLD → RECAP → 机制对比 → HEARS 方向 → 训练动力学） |
 | [docs/A1_PLD技术细节深读.md](./docs/A1_PLD技术细节深读.md) | PLD 全细节（残差/Cal-QL/probing/蒸馏/消融，逐节核对论文） |
 | [docs/A2_RECAP技术细节深读.md](./docs/A2_RECAP技术细节深读.md) | RECAP 全细节（分布式 value/advantage/CFG/下界/迭代，含对原文数字的更正） |
 | [docs/A3_支撑机制_CalQL_RLPD_AWR_CFG.md](./docs/A3_支撑机制_CalQL_RLPD_AWR_CFG.md) | Cal-QL/RLPD/AWR-AWAC/CFG 精确目标函数与动机 |
